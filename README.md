@@ -1,16 +1,24 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the application of Python and GIS to analyze the movement of sand on the German baltic coast.
+- 🤓 I'm currently studying M.Sc. Environmental Engineering in Germany 🇩🇪.
+- 🌱 I’m currently learning data analysis and machine learning.
+- 👯 I’m looking to work on a project that applies data analysis and the use of python in a field of environmental engineering.
+- 💬 Ask me about learning languages or finding your way around a new culture.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I grew up in Spain because it was my parents' dream to live in a cave.
+
 <!--
 **jllovell/jllovell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on the application of Python and GIS to analyze the movement of sand on the German baltic coast.
+- 🤓 I'm currently studying M.Sc. Environmental Engineering in Germany 🇩🇪.
+- 🌱 I’m currently learning data analysis and machine learning.
+- 👯 I’m looking to collaborate on a project that applies data analysis and the use of python in a field of environmental engineering.
+- 💬 Ask me about learning languages or finding your way around a new culture.
+- 📫 How to reach me: j.lovell@stud.uni-hannover.de
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am German by birth, British by blood, and Spanish by upbringing.
 -->
