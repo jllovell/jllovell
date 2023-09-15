@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning data analysis and machine learning.
 - 👯 I’m looking to work on a project that applies data analysis and the use of python in a field of environmental engineering.
 - 💬 Ask me about learning languages or finding your way around a new culture.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up in Spain because it was my parents' dream to live in a cave.
 
 <!--
