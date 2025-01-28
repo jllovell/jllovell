@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the application of Python and GIS to analyze the movement of sand on the German baltic coast.
-- 🤓 I'm currently studying M.Sc. Environmental Engineering in Germany 🇩🇪.
-- 🌱 I’m currently learning data analysis and machine learning.
-- 👯 I’m looking to work on a project that applies data analysis and the use of python in a field of environmental engineering.
+- 🔭 I’m currently researching the application of Computer Vision and GIS methods to analyze the floodplains of a river in Germany.
+- 🤓 I'm completing my M.Sc. Environmental Engineering degree in Germany 🇩🇪.
+- 🌱 I’m constantly developing my knowledge of data analytics and ML.
+- 👯 I’m looking to collaborate on a project that applies data analysis and data science to either engineering, environment, education, medicine or economics.
 - 💬 Ask me about learning languages or finding your way around a new culture.
 - ⚡ Fun fact: I grew up in Spain because it was my parents' dream to live in a cave.
 
