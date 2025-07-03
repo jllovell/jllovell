@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I'm currently researching the application of Computer Vision and GIS methods to analyze the floodplains of a river in Germany.
-- 🤓 I'm completing my M.Sc. Environmental Engineering degree in Germany 🇩🇪.
+- 🤓 I have jusst completed my M.Sc. Environmental Engineering degree in Germany 🇩🇪.
 - 🌱 I'm constantly developing my knowledge of data analytics and Machine Learning.
 - 👯 I'm looking to collaborate on a project that seeks to use advanced AI methods for solving problems in an ethical/responsible manner.
-- 💬 Ask me about learning languages or finding your way around a new culture.
+- 💬 Ask me about learning languages, cooking or finding your way around a new culture.
 - ⚡ Fun fact: I grew up in Spain because it was my parents' dream to live in a cave.
 
 <!--
